@@ -1,0 +1,79 @@
+{
+  "id": "2535299",
+  "name": "iflytek-mall-color",
+  "font_family": "imc-icon",
+  "css_prefix_text": "imc-icon-",
+  "description": "讯飞商城2.0彩色图标",
+  "glyphs": [
+    {
+      "icon_id": "21566844",
+      "name": "双右箭头",
+      "font_class": "arrow-right-double",
+      "unicode": "e681",
+      "unicode_decimal": 59009
+    },
+    {
+      "icon_id": "21566845",
+      "name": "券",
+      "font_class": "coupon",
+      "unicode": "e682",
+      "unicode_decimal": 59010
+    },
+    {
+      "icon_id": "21566846",
+      "name": "包装",
+      "font_class": "package",
+      "unicode": "e683",
+      "unicode_decimal": 59011
+    },
+    {
+      "icon_id": "21566847",
+      "name": "银行卡",
+      "font_class": "bankcard",
+      "unicode": "e684",
+      "unicode_decimal": 59012
+    },
+    {
+      "icon_id": "21566848",
+      "name": "售后",
+      "font_class": "aftersale",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    },
+    {
+      "icon_id": "21566849",
+      "name": "配送",
+      "font_class": "ship",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    },
+    {
+      "icon_id": "21566850",
+      "name": "开票",
+      "font_class": "invoice",
+      "unicode": "e687",
+      "unicode_decimal": 59015
+    },
+    {
+      "icon_id": "21566851",
+      "name": "认证",
+      "font_class": "verify",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    },
+    {
+      "icon_id": "21566852",
+      "name": "用户",
+      "font_class": "user",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    },
+    {
+      "icon_id": "21566853",
+      "name": "订单",
+      "font_class": "order",
+      "unicode": "e68a",
+      "unicode_decimal": 59018
+    }
+  ]
+}

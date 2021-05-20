@@ -1,0 +1,57 @@
+@font-face {
+  font-family: "imc-icon"; /* Project id 2535299 */
+  /* Color fonts */
+  src: 
+       url('iconfont.woff2?t=1620872826187') format('woff2'),
+       url('iconfont.woff?t=1620872826187') format('woff'),
+       url('iconfont.ttf?t=1620872826187') format('truetype');
+}
+
+.imc-icon {
+  font-family: "imc-icon" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.imc-icon-arrow-right-double:before {
+  content: "\e681";
+}
+
+.imc-icon-coupon:before {
+  content: "\e682";
+}
+
+.imc-icon-package:before {
+  content: "\e683";
+}
+
+.imc-icon-bankcard:before {
+  content: "\e684";
+}
+
+.imc-icon-aftersale:before {
+  content: "\e685";
+}
+
+.imc-icon-ship:before {
+  content: "\e686";
+}
+
+.imc-icon-invoice:before {
+  content: "\e687";
+}
+
+.imc-icon-verify:before {
+  content: "\e688";
+}
+
+.imc-icon-user:before {
+  content: "\e689";
+}
+
+.imc-icon-order:before {
+  content: "\e68a";
+}
+

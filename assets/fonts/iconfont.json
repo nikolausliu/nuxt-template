@@ -1,0 +1,170 @@
+{
+  "id": "2504618",
+  "name": "iflytek-mall",
+  "font_family": "im-icon",
+  "css_prefix_text": "im-icon-",
+  "description": "讯飞商城基础标准图标库",
+  "glyphs": [
+    {
+      "icon_id": "21566437",
+      "name": "回到顶部",
+      "font_class": "backtop-outlined",
+      "unicode": "e683",
+      "unicode_decimal": 59011
+    },
+    {
+      "icon_id": "21566438",
+      "name": "编辑",
+      "font_class": "edit-outlined",
+      "unicode": "e684",
+      "unicode_decimal": 59012
+    },
+    {
+      "icon_id": "21566439",
+      "name": "对话框",
+      "font_class": "chat-outlined",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    },
+    {
+      "icon_id": "21566440",
+      "name": "删除",
+      "font_class": "delete-outlined",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    },
+    {
+      "icon_id": "21566441",
+      "name": "首页",
+      "font_class": "home-outlined",
+      "unicode": "e687",
+      "unicode_decimal": 59015
+    },
+    {
+      "icon_id": "21511400",
+      "name": "发票",
+      "font_class": "invoice-outlined",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "21511401",
+      "name": "待收货",
+      "font_class": "receive-outlined",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "21511402",
+      "name": "待付款",
+      "font_class": "wallet-outlined",
+      "unicode": "e67f",
+      "unicode_decimal": 59007
+    },
+    {
+      "icon_id": "21511403",
+      "name": "待发货",
+      "font_class": "ship-outlined",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "21511404",
+      "name": "我的订单",
+      "font_class": "order-outlined",
+      "unicode": "e681",
+      "unicode_decimal": 59009
+    },
+    {
+      "icon_id": "21511260",
+      "name": "购物车",
+      "font_class": "cart-outlined",
+      "unicode": "e678",
+      "unicode_decimal": 59000
+    },
+    {
+      "icon_id": "21511261",
+      "name": "购物车2",
+      "font_class": "cart-two-outlined",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "21511201",
+      "name": "售后",
+      "font_class": "aftersale-outlined",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "21510892",
+      "name": "售前",
+      "font_class": "beforesale-outlined",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    },
+    {
+      "icon_id": "21510893",
+      "name": "飞粉之家",
+      "font_class": "internet-outlined",
+      "unicode": "e675",
+      "unicode_decimal": 58997
+    },
+    {
+      "icon_id": "21510894",
+      "name": "又-圆圈",
+      "font_class": "right-circle-outlined",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "21510895",
+      "name": "左-圆圈",
+      "font_class": "left-circle-outlined",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    },
+    {
+      "icon_id": "21510897",
+      "name": "手机",
+      "font_class": "mobile-outlined",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "21510898",
+      "name": "搜索",
+      "font_class": "search-outlined",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "21490903",
+      "name": "成功",
+      "font_class": "check-circle-filled",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "21490907",
+      "name": "警示",
+      "font_class": "warn-circle-filled",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "21490913",
+      "name": "下拉",
+      "font_class": "caret-down-outlined",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "21490916",
+      "name": "收藏",
+      "font_class": "star-filled",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    }
+  ]
+}

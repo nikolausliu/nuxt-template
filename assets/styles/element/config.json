@@ -1,0 +1,25 @@
+{
+  "global": {
+    "$--color-primary": "#F34141",
+    "$--color-success": "#67C23A",
+    "$--color-danger": "#E52525",
+    "$--color-text-primary": "#333333",
+    "$--color-text-regular": "#666666",
+    "$--color-info": "#0095CE",
+    "$--color-text-secondary": "#999999",
+    "$--color-warning": "#E6A23C",
+    "$--color-black": "#333333",
+    "$--background-color-base": "#F5F5F5",
+    "$--border-color-base": "#B0B0B0",
+    "$--border-color-light": "#666666",
+    "$--border-color-lighter": "#E6E6E6",
+    "$--color-text-placeholder": "#999999",
+    "$--border-color-extra-light": "#F5F5F5",
+    "$--box-shadow-base": "0 2px 4px rgba(0, 0, 0, .12), 0 0 6px rgba(0, 0, 0, .04)",
+    "$--box-shadow-light": "0 0 12px 0 rgba(0, 0, 0, 0.1)"
+  },
+  "local": {
+    "$--button-default-border-color": "$--border-color-lighter",
+    "$--backtop-background-color": "$--background-color-base"
+  }
+}

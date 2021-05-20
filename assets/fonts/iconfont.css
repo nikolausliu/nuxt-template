@@ -1,0 +1,110 @@
+@font-face {
+  font-family: "im-icon"; /* Project id 2504618 */
+  src: url('iconfont.eot?t=1620893039589'); /* IE9 */
+  src: url('iconfont.eot?t=1620893039589#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('iconfont.woff2?t=1620893039589') format('woff2'),
+       url('iconfont.woff?t=1620893039589') format('woff'),
+       url('iconfont.ttf?t=1620893039589') format('truetype'),
+       url('iconfont.svg?t=1620893039589#im-icon') format('svg');
+}
+
+.im-icon {
+  font-family: "im-icon" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.im-icon-backtop-outlined:before {
+  content: "\e683";
+}
+
+.im-icon-edit-outlined:before {
+  content: "\e684";
+}
+
+.im-icon-chat-outlined:before {
+  content: "\e685";
+}
+
+.im-icon-delete-outlined:before {
+  content: "\e686";
+}
+
+.im-icon-home-outlined:before {
+  content: "\e687";
+}
+
+.im-icon-invoice-outlined:before {
+  content: "\e67d";
+}
+
+.im-icon-receive-outlined:before {
+  content: "\e67e";
+}
+
+.im-icon-wallet-outlined:before {
+  content: "\e67f";
+}
+
+.im-icon-ship-outlined:before {
+  content: "\e680";
+}
+
+.im-icon-order-outlined:before {
+  content: "\e681";
+}
+
+.im-icon-cart-outlined:before {
+  content: "\e678";
+}
+
+.im-icon-cart-two-outlined:before {
+  content: "\e67c";
+}
+
+.im-icon-aftersale-outlined:before {
+  content: "\e67b";
+}
+
+.im-icon-beforesale-outlined:before {
+  content: "\e674";
+}
+
+.im-icon-internet-outlined:before {
+  content: "\e675";
+}
+
+.im-icon-right-circle-outlined:before {
+  content: "\e676";
+}
+
+.im-icon-left-circle-outlined:before {
+  content: "\e677";
+}
+
+.im-icon-mobile-outlined:before {
+  content: "\e679";
+}
+
+.im-icon-search-outlined:before {
+  content: "\e67a";
+}
+
+.im-icon-check-circle-filled:before {
+  content: "\e614";
+}
+
+.im-icon-warn-circle-filled:before {
+  content: "\e618";
+}
+
+.im-icon-caret-down-outlined:before {
+  content: "\e61e";
+}
+
+.im-icon-star-filled:before {
+  content: "\e621";
+}
+

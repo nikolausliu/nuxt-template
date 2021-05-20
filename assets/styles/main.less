@@ -1,0 +1,57 @@
+// 全局覆盖element-ui样式
+.el-dialog__headerbtn .el-dialog__close {
+  color: @color-primary !important;
+}
+
+// 全局公用样式
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+}
+// 重置ul li基本样式
+ul > li {
+  list-style-type: none;
+}
+// 安全区域
+.security-area {
+  width: @security-width;
+  margin: 0 auto;
+}
+// 单行溢出处理
+.ellipsis {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+// 货币单位
+.currency {
+  display: inline-block;
+  padding-right: 3px;
+}
+// 公共白色内容快
+.com-board {
+  padding: 20px;
+  background-color: @color-white;
+  &-title {
+    margin-bottom: 30px;
+    line-height: 22px;
+    font-size: 16px;
+    font-weight: 500;
+    color: @color-text-primary;
+  }
+}
+// 竖排按钮组
+.vertical-btn-group {
+  .el-button {
+    display: block;
+    margin: 0 auto;
+    &:not(:last-child) {
+      margin-bottom: 5px;
+    }
+    & + .el-button {
+      margin-left: auto;
+    }
+  }
+}

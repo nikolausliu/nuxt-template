@@ -1,0 +1,31 @@
+// 伪类
+.preudo {
+  position: absolute;
+  content: '';
+  display: block;
+}
+
+// 安全区域
+.security-area {
+  width: @security-width;
+  margin: 0 auto;
+}
+
+// 单行溢出处理
+.ellipsis {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.ellipsisLines(@line: 2) {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: @line;
+  -webkit-box-orient: vertical;
+}
+// 货币单位
+.currency {
+  display: inline-block;
+  padding-right: 3px;
+}
